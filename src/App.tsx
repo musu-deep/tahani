@@ -45,7 +45,7 @@ const INITIAL_POSTS: CelebrationPost[] = [
   },
   {
     id: 'post-4',
-    studentName: 'مازن عوض الجزيرة',
+    studentName: 'غنا عوض الجاز',
     score: '248',
     grade: 'شهادة التعليم الابتدائي',
     senderName: 'الوالدة الغالية',
