@@ -21,7 +21,7 @@ const INITIAL_POSTS: CelebrationPost[] = [
   },
   {
     id: 'post-2',
-    studentName: 'أحمد البشير محمد علي',
+    studentName: 'نهال البشير محمد علي',
     score: '96.5%',
     grade: 'الشهادة الثانوية السودانية',
     senderName: 'الخال مأمون وجميع الأهل',
