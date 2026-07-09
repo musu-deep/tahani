@@ -1,0 +1,6 @@
+{
+  "name": "منصة التهنئة بالنجاح",
+  "description": "منصة مبتكرة لتصميم وتوليد بطاقات تهنئة بالنجاح ومشاركتها وكتابة تهاني شعرية ونثرية بالذكاء الاصطناعي للاحتفال بالتفوق الدراسي والنجاح الباهر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
